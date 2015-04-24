@@ -6,9 +6,9 @@
 
 ##Usage
 
-To use this theme you'll want to clone it into the same directory as your rEFInd efi executable (usually `EFI\refind\` in ESP for Windows, '/boot/EFI/refind/' for Linux). Then you will want to add the line `include rEFInd-ZJU/theme.conf` to the end of your `refind.conf`. 
+To use this theme you'll want to clone it into the same directory as your rEFInd efi executable (usually `EFI\refind\` in ESP for Windows, `/boot/EFI/refind/` for Linux). Then you will want to add the line `include rEFInd-ZJU/theme.conf` to the end of your `refind.conf`. 
 
-To set the icons for your entries you will want to add the icon configuration to each menuentry which points to the icon under rEFInd-ZJU/icons that you would like to use for that entry. 
+To set the icons for your entries you will want to add the icon configuration to each menuentry which points to the icon under `rEFInd-ZJU/icons` that you would like to use for that entry. 
 
 And here's an example configuration. 
 

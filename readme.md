@@ -2,6 +2,8 @@
 
 [The rEFInd Boot Manager](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI based systems. This is a theme for the students of Zhejiang University. 
 
+![Sreenshot](https://cloud.githubusercontent.com/assets/1665437/7316762/60fcb8d0-eaac-11e4-8021-76311694de20.png)
+
 ##Usage
 
 To use this theme you'll want to clone it into the same directory as your rEFInd efi executable (usually `EFI\refind\` in ESP for Windows, '/boot/EFI/refind/' for Linux). Then you will want to add the line `include rEFInd-ZJU/theme.conf` to the end of your `refind.conf`. 

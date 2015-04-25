@@ -1,6 +1,6 @@
 #Zhejiang University rEFInd theme
 
-[The rEFInd Boot Manager](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI based systems. This is a theme for the students of Zhejiang University. 
+[The rEFInd Boot Manager](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI based systems. This is a rEFInd theme for the students of Zhejiang University. 
 
 ![Sreenshot-1](https://cloud.githubusercontent.com/assets/1665437/7332527/b29c655e-eb75-11e4-8176-bdb9e17c9aa4.png)![Sreenshot-2](https://cloud.githubusercontent.com/assets/1665437/7332526/abe61bba-eb75-11e4-8e6d-6289bac4b781.png)
 

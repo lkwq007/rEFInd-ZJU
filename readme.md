@@ -13,7 +13,7 @@ To set the icons for your entries you will want to add the icon configuration to
 And here's an example configuration. 
 
 ```
-menuentry Ubuntu {
+menuentry "Ubuntu" {
 	loader /EFI/ubuntu/grubx64.efi
 	icon /EFI/refind/rEFInd-ZJU/icons/os_ubuntu.png
 }
